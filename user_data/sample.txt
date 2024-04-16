@@ -1,0 +1,61 @@
+Occupation: Software Engineer
+Name: John Doe
+Age: 35
+
+
+
+
+Age: 28
+Name: Jane Smith
+
+Occupation: Marketing Manager
+
+Name: Alice Johnson
+Occupation: HR Specialist
+
+Age: 42
+
+
+Name: Sarah Wilson
+Age: 28
+Occupation: Marketing Consultant
+
+Occupation: Data Analyst
+Name: Alex Brown
+Age: 35
+
+
+Name: Sophia Martinez
+Age: 41
+Occupation: Architect
+
+Age: 21
+Occupation: Student
+Name: Noah Patel
+
+Age: 30
+Name: Isabella Rodriguez
+Occupation: Veterinarian
+
+Name: Michael Johnson
+Occupation: Construction Manager
+Age: 52
+
+Age: 25
+Name: Chloe Davis
+
+Occupation: Photographer
+
+
+Age: 38
+Occupation: Chef
+Name: Ethan Lee
+
+
+Name: Olivia Miller
+Occupation: HR Director
+Age: 45
+
+Occupation: Software Developer
+Name: Daniel Taylor
+Age: 29
